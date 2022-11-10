@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://img.lovepik.com/photo/40064/9786.jpg_wh860.jpg">
 <h1 align="center">Hi 👋, I'm Hoang Dinh Hieu</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
@@ -50,5 +50,5 @@
   </tr>
 </table>
 
-# Certificates:
+# Skill languages: C/C++, Java, HTML,CSS
 
