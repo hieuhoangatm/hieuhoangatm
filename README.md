@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://img.lovepik.com/photo/40064/9786.jpg_wh860.jpg">
 <h1 align="center">Hi 👋, I'm Hoang Dinh Hieu</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">I'm alone</h3>
 </p>
 
 
