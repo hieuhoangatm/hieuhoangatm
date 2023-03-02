@@ -50,5 +50,5 @@
   </tr>
 </table>
 
-# Skill languages: C/C++, Java, HTML,CSS
+
 
